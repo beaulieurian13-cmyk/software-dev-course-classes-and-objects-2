@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebd8823b-6a07-4051-89e2-405020fa003b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BetterStudentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/BetterStudentManagerTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BetterStudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BetterStudentManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +25,65 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000011726" />
+      <entry key="S30" value="1.000167436194058" />
+      <entry key="S60" value="1.0189562551871967" />
+      <entry key="M2" value="1.2474358201095201" />
+      <entry key="M5" value="2.911908771756079" />
+      <entry key="M10" value="6.846574824079725" />
+      <entry key="M15" value="11.171463832923477" />
+      <entry key="M30" value="21.554021972827876" />
+      <entry key="H1" value="32.09276474653689" />
+      <entry key="H2" value="39.838187258089874" />
+      <entry key="H4" value="44.57064499535337" />
+      <entry key="D1" value="49.04215056201619" />
+      <entry key="W1" value="49.861803223875384" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.185707356210108E-83" />
+      <entry key="S5" value="1.2330747410580988E-33" />
+      <entry key="S10" value="4.019672153356162E-17" />
+      <entry key="S30" value="6.142471097777666E-6" />
+      <entry key="S60" value="0.00467404675162247" />
+      <entry key="M2" value="0.15353125283368968" />
+      <entry key="M5" value="1.5883754698879977" />
+      <entry key="M10" value="4.027011374559078" />
+      <entry key="M15" value="5.7861997606079205" />
+      <entry key="M30" value="8.713984455421306" />
+      <entry key="H1" value="10.943790256414855" />
+      <entry key="H2" value="12.347768362617224" />
+      <entry key="H4" value="13.139734404763582" />
+      <entry key="D1" value="13.85158632829612" />
+      <entry key="W1" value="13.978670684570881" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.6901980368081293E-4" />
+      <entry key="MS500" value="0.19317763741199684" />
+      <entry key="S2" value="0.6629628801493289" />
+      <entry key="S5" value="0.848390281686933" />
+      <entry key="S10" value="0.9210810396968022" />
+      <entry key="S30" value="0.9731387146774259" />
+      <entry key="S60" value="1.0095878473239113" />
+      <entry key="M2" value="1.3887707235909097" />
+      <entry key="M5" value="4.4714036839108795" />
+      <entry key="M10" value="10.828507770989933" />
+      <entry key="M15" value="16.90663651821846" />
+      <entry key="M30" value="30.219141280537432" />
+      <entry key="H1" value="43.000962773877" />
+      <entry key="H2" value="52.1641944100018" />
+      <entry key="H4" value="57.698308981801944" />
+      <entry key="D1" value="62.891539919437896" />
+      <entry key="W1" value="63.84015523436983" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -40,16 +97,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.BetterStudentManagerTests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/mikel/projects/java/software-dev-course-classes-and-objects-1/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -57,6 +126,14 @@
       <recent name="" />
       <recent name="org.example" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -68,5 +145,8 @@
       <updated>1738943657860</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
